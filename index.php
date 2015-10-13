@@ -11,7 +11,8 @@
 		   </tile>
 		</header>
 
-	<body background="abqpic.jpg">
+	<body>
+		<div class="container"></div>
 			<p>Abuot Carlos</p>
 			<br></br>
 
