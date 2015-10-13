@@ -6,7 +6,6 @@
 			</head>
 
 		<header>
-			<div class="div.transbox"></div>
 			<tile>
 			   <h1>Welcome to About Carlos</h1>
 		   </tile>
