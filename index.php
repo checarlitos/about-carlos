@@ -17,7 +17,7 @@
 			<p>Hi, My name is carlos Beraun i am from Huancayo Peru.</p>
 				<em>I am 32yr. I am married with some amazing children. I am a big fan of watching soccer form all parts of the world.</em>
 
-			<p>I help coach my sons soccer team and i also host some pretty awesome tea parties for my daughters, Invites only sorry ladies.</p>
+			<p>I help coach my sons soccer team and i also host some pretty awesome tea parties for my daughters, Invites only! sorry ladies.</p>
 			<p>I am here to learn and create software.</p>
 				<em>I am here to learn coding.</em>
 		<ul>
