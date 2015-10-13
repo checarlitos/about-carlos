@@ -6,6 +6,7 @@
 			</head>
 
 		<header>
+			<div class ="container"></div>
 			<tile>
 			   <h1>Welcome to About Carlos</h1>
 		   </tile>
