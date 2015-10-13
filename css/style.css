@@ -13,6 +13,7 @@ body {
 
 p {
 	color: #ffffff;
+	text-align: center;
 }
 
 ul {
@@ -24,4 +25,5 @@ ol {
 }
 em {
 	color: #ffffff;
+	text-align: center;
 }
