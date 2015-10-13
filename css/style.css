@@ -3,3 +3,7 @@ body {
 	background-repeat: no-repeat;
 	font-family: Impact, arial, sans-serif;
 }
+
+p {
+	font-color: #ffffff;
+}

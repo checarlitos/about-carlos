@@ -7,7 +7,7 @@
 
 		<header>
 			<tile>
-			   <h1>About Carlos</h1>
+			   <h1>Welcome to About Carlos</h1>
 		   </tile>
 		</header>
 
