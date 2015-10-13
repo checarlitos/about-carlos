@@ -5,21 +5,22 @@
 			  <link href="css/style.css" rel="stylesheet">
 			</head>
 
+	<body>
+
 		<header>
-				<div class="transbox"></div>
+			<div class="transbox"></div>
 			<tile>
 				<h1>Welcome to About Carlos</h1>
-		   </tile>
+			</tile>
 		</header>
 
-	<body>
 		<div class="container"></div>
 			<p>Hi, My name is carlos Beraun i am from Huancayo Peru.</p>
 				<em>I am 32yr. I am married with some amazing children. I am a big fan of watching soccer form all parts of the world.</em>
 
 			<p>I help coach my sons soccer team and i also host some pretty awesome tea parties for my daughters, Invites only! sorry ladies.</p>
 				<em>Some things that interest me are...</em>
-		<ol> Collecting soccer jeseys</ol>
+		<ol>Collecting soccer jeseys</ol>
 
 			<p>I am here to learn and create software.</p>
 				<em>I am here to learn coding, i would like to learn.</em>
