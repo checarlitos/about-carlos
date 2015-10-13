@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 	<html>
 		<tile>
-			About Carlos
+			<h1>About Carlos</h1>
 		</tile>
 	<body background="background.jpg">
 		<p>Abuot Carlos</p>
