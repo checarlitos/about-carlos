@@ -19,7 +19,7 @@
 
 			<p>I help coach my sons soccer team and i also host some pretty awesome tea parties for my daughters, Invites only! sorry ladies.</p>
 			<p>I am here to learn and create software.</p>
-				<em>I am here to learn coding.</em>
+				<em>I am here to learn coding, i would like to learn.</em>
 		<ul>
 			<li>HTML</li>
 			<li>CSS</li>
