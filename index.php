@@ -6,9 +6,9 @@
 			</head>
 
 		<header>
-				<div class="transbox"
+				<div class="transbox"></div>
 			<tile>
-			   <h1>Welcome to About Carlos</h1>
+				<h1>Welcome to About Carlos</h1>
 		   </tile>
 		</header>
 
