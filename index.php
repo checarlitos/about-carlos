@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 	<html>
-		<tile>
-			<h1>About Carlos</h1>
-		</tile>
+		<header>
+			<tile>
+			   <h1>About Carlos</h1>
+		   </tile>
+		</header>
+
 	<body background="background.jpg">
 		<p>Abuot Carlos</p>
 		<br></br>
