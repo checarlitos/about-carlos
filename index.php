@@ -26,7 +26,7 @@
 
 	<body>
 		<header>
-			<div class="container pull-left btn-group">
+			<div class="container">
 				<div class="row col-md-12">
 
 				<h1>Stemulus Mafia</h1>
