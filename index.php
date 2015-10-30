@@ -25,27 +25,29 @@
 	</head>
 
 	<body>
-		<div class="sfooter-content"
+
 		<header>
-			<div class="page-header">
+			<div class="container">
 				<div class="row col-md-12">
 					<nav class="navbar">
 
 				<h1>Stemulus Mafia</h1>
 
 					<div class="pull-right float">
-						<ul class="nav nav-pills">
-							...
-							<li role="presentation" class="disabled"><a href="#">Disabled link</a></li>
-							...
-						</ul>
+						<button type="button" class="btn btn-default">Left</button>
+						<button type="button" class="btn btn-default">Middle</button>
+						<button type="button" class="btn btn-default">Right</button>
+
+						<button type="button" class="btn btn-default pull-right" aria-label="center">
+							<span class="glyphicon glyphicon-align-center" aria-hidden="true"></span>
+						</button>
 
 					</div>
 				</nav>
 			</div>
 
 		</header>
-</div>
+
 	</body>
 
 
