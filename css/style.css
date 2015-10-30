@@ -5,6 +5,9 @@ h1 {
 	align-content: left;
 }
 
+.container {
+	color: rgb(211, 211, 211);
+}
 
 /*
 body {
