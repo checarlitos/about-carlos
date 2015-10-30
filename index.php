@@ -27,6 +27,7 @@
 	<body>
 		<header>
 			<div class="container pull-left btn-group">
+				<div class="row">
 				<div class="col-md-12">
 				<h1>Stemulus Mafia</h1>
 					<div class="pull-right">
@@ -38,7 +39,7 @@
 							<span class="glyphicon glyphicon-align-center" aria-hidden="true"></span>
 						</button>
 					</div>
-
+				</div>
 				</div>
 			</div>
 		</header>
