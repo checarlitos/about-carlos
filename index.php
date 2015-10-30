@@ -1,36 +1,37 @@
 <!DOCTYPE html>
-	<html lang="en">
-		  <head>
-				<meta charset="utf-8">
-			  <link href="css/style.css" rel="stylesheet">
-			</head>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+
+		<!-----Adding the Complied boot strap minifled css------->
+		<link rel="stylesheet"
+				href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ=="
+				crossorigin="anonymous">
+
+		<!----- Optional Theme-------->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css"
+				integrity="sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX"
+				crossorigin="anonymous">
+
+		<!-------Latest compiled and minifile javascript----------->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"
+				  integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ=="
+				  crossorigin="anonymous">
+		</script>
+
+		<!--My custom stylesheet-------->
+		<link href="css/style.css" rel="stylesheet">
+
+	</head>
 
 	<body>
-
 		<header>
-			<div class="transbox"></div>
-			<tile>
-				<h1>Welcome to About Carlos</h1>
-			</tile>
+			<div class="container">
+				<h1>Stemulus Mafia</h1>
+			</div>
 		</header>
 
-		<div class="container"></div>
-			<h1>Hi, My name is carlos Beraun i am from Huancayo Peru.</h1>
-				<em>I am 32yr. I am married with some amazing children. I am a big fan of watching soccer form all parts of the world.</em>
-
-			<p>I help coach my sons soccer team and i also host some pretty awesome tea parties for my daughters, Invites only! sorry ladies.</p>
-				<em>Some things that interest me are...</em>
-		<ol>Collecting soccer jeseys</ol>
-
-			<p>I am here to learn and create software.</p>
-				<em>I am here to learn coding, i would like to learn.</em>
-		<ul>
-			<li>HTML</li>
-			<li>CSS</li>
-			<li>Java</li>
-			<li>PHP</li>
-		</ul>
-
-
 	</body>
+
+
 </html>
