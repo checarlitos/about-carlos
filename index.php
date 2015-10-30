@@ -29,7 +29,12 @@
 			<div class="container pull-left btn-group">
 				<div class="col-md-12">
 				<h1>Stemulus Mafia</h1>
-					<button type="button" class="btn btn-default pull-right align-top" aria-label="center">
+
+					<button type="button" class="btn btn-default">Left</button>
+					<button type="button" class="btn btn-default">Middle</button>
+					<button type="button" class="btn btn-default">Right</button>
+
+					<button type="button" class="btn btn-default pull-right" aria-label="center">
 						<span class="glyphicon glyphicon-align-center" aria-hidden="true"></span>
 					</button>
 				</div>
