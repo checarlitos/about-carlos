@@ -28,7 +28,7 @@
 		<header>
 			<div class="container pull-left btn-group">
 				<h1>Stemulus Mafia</h1>
-						<button type="button" class="btn btn-default dropdown-toggle pull-left" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						<button type="button" class= "nav nav-pills pull-right btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 							Action <span class="caret"></span>
 						</button>
 
