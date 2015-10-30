@@ -34,13 +34,11 @@
 				<h1>Stemulus Mafia</h1>
 
 					<div class="pull-right float">
-						<button type="button" class="btn btn-default">Left</button>
-						<button type="button" class="btn btn-default">Middle</button>
-						<button type="button" class="btn btn-default">Right</button>
-
-						<button type="button" class="btn btn-default pull-right" aria-label="center">
-							<span class="glyphicon glyphicon-align-center" aria-hidden="true"></span>
-						</button>
+						<ul class="nav nav-pills">
+							...
+							<li role="presentation" class="disabled"><a href="#">Disabled link</a></li>
+							...
+						</ul>
 
 					</div>
 				</nav>
