@@ -25,6 +25,7 @@
 	</head>
 
 	<body>
+		<div class="sfooter-content"
 		<header>
 			<div class="container">
 				<div class="row col-md-12">
