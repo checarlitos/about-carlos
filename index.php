@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<meta charset="UTF-8">
+		<meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1">
 
 		<!-----Adding the Complied boot strap minifled css------->
 		<link rel="stylesheet"
@@ -27,9 +27,10 @@
 	<body>
 
 		<header>
-			<div class="container background-color:gray">
+			<div class="sfooter-content">
+			<div class="container">
 				<div class="row col-md-12">
-					<nav class="navbar">
+					<div class="navbar">
 
 				<h1>Stemulus Mafia</h1>
 
@@ -43,9 +44,10 @@
 						</button>
 
 					</div>
-				</nav>
+					</div>
+				</div>
 			</div>
-
+			</div>
 		</header>
 
 	</body>
