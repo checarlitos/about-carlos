@@ -27,10 +27,9 @@
 	<body>
 
 		<header>
-			<div class="sfooter-content">
+
 			<div class="container">
 				<div class="row col-md-12">
-					<div class="navbar">
 
 				<h1>Stemulus Mafia</h1>
 
@@ -42,12 +41,12 @@
 						<button type="button" class="btn btn-default pull-right" aria-label="center">
 							<span class="glyphicon glyphicon-align-center" aria-hidden="true"></span>
 						</button>
-
-					</div>
 					</div>
 				</div>
 			</div>
-			</div>
+
+
+
 		</header>
 
 	</body>
