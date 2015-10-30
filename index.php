@@ -27,7 +27,7 @@
 	<body>
 		<div class="sfooter-content"
 		<header>
-			<div class="container">
+			<div class="container page-header">
 				<div class="row col-md-12">
 					<nav class="navbar">
 
@@ -47,7 +47,7 @@
 			</div>
 
 		</header>
-
+</div>
 	</body>
 
 
