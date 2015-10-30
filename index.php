@@ -27,8 +27,9 @@
 	<body>
 		<header>
 			<div class="container pull-left btn-group">
+				<div class="col-md-12">
 				<h1>Stemulus Mafia</h1>
-						<button type="button" class= "nav nav-pills pull-right btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						<button type="button" class= " btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 							Action <span class="caret"></span>
 						</button>
 
@@ -39,7 +40,7 @@
 							<li role="separator" class="divider"></li>
 							<li><a href="#">Separated link</a></li>
 						</ul>
-
+				</div>
 			</div>
 		</header>
 
