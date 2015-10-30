@@ -27,7 +27,7 @@
 	<body>
 
 		<header>
-			<div class="container">
+			<div class="container color:gray">
 				<div class="row col-md-12">
 					<nav class="navbar">
 

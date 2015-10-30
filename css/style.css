@@ -5,6 +5,10 @@ h1 {
 	align-content: left;
 }
 
+.container{
+	color: aliceblue;
+}
+
 /*
 body {
 	background-image: url("abqpic.jpg");
