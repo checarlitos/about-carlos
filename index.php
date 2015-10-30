@@ -29,6 +29,7 @@
 		<header>
 			<div class="container">
 				<div class="row col-md-12">
+					<nav class="navbar">
 
 				<h1>Stemulus Mafia</h1>
 
@@ -42,7 +43,7 @@
 						</button>
 
 					</div>
-				</div>
+				</nav>
 			</div>
 
 		</header>
