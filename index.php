@@ -28,7 +28,7 @@
 
 		<header>
 
-			<div class="container">
+			<div id="container-header"class="container">
 				<div class="row col-md-12">
 
 				<h1>Stemulus Mafia</h1>
