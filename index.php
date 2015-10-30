@@ -29,7 +29,7 @@
 			<div class="container pull-left btn-group">
 				<div class="col-md-12">
 				<h1>Stemulus Mafia</h1>
-					<div>
+					<div class="pull-right">
 						<button type="button" class="btn btn-default">Left</button>
 						<button type="button" class="btn btn-default">Middle</button>
 						<button type="button" class="btn btn-default">Right</button>
