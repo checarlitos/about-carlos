@@ -33,7 +33,7 @@
 
 				<h1>Stemulus Mafia</h1>
 
-					<div class="pull-right float">
+					<div class="pull-right float"
 						<button type="button" class="btn btn-default">Left</button>
 						<button type="button" class="btn btn-default">Middle</button>
 						<button type="button" class="btn btn-default">Right</button>
