@@ -41,15 +41,6 @@
 
 						<button type="button" class="btn btn-default pull-right" aria-label="center">
 							<span class="glyphicon glyphicon-align-center" aria-hidden="true"></span>
-						<div class="container">
-							<div class="row">
-								<div class="Col-med-4">
-
-								</div>
-
-							</div>
-						</div>
-
 						</button>
 					</div>
 					</div>
