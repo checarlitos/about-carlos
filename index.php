@@ -28,8 +28,9 @@
 
 		<header>
 
-			<div id="container-header" class="container">
-				<div class="row col-md-12">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
 
 				<h1>Stemulus Mafia</h1>
 
@@ -41,6 +42,7 @@
 						<button type="button" class="btn btn-default pull-right" aria-label="center">
 							<span class="glyphicon glyphicon-align-center" aria-hidden="true"></span>
 						</button>
+					</div>
 					</div>
 				</div>
 			</div>
