@@ -41,7 +41,6 @@
 				</div>
 			</div>
 
-<p></p>
 
 		</header>
 
