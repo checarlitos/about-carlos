@@ -86,7 +86,7 @@
 <!-----------------Bottom content blocks---------------->
 
 							<div class="container">
-								<div clas="row">
+								<div class="row">
 
 											<div class="col-md-6">
 													<h3>Bottom Block 1</h3>
@@ -102,9 +102,19 @@
 						 </div>
 
 <!---------------Footer---------->
+							<div class="container">
+										<div class="page-header">
+											<h1>Sticky footer</h1>
+										</div>
 
-							<footer>
-								<p>This is the bottom footer.</p>
+										<p class="lead">Pin a fixed-height footer to the bottom of the viewport in desktop browsers with this custom HTML and CSS.</p>
+										<p>Use <a href="../sticky-footer-navbar">the sticky footer with a fixed navbar</a> if need be, too.</p>
+							</div>
+
+							<footer class="footer">
+										<div class="container">
+												<p class="text-muted">Place sticky footer content here.</p>
+										</div>
 							</footer>
 
 
