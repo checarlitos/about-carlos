@@ -5,6 +5,6 @@ header{
 }
 
 body {
-	background-image: url("stbk.jpg");
+	background-image: url(".../images/stbk.jpg");
 	background-repeat: no-repeat;
 }
