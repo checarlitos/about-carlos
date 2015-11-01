@@ -5,6 +5,10 @@ h1 {
 	align-content: left;
 }
 
+header {
+	color: lightgray;
+}
+
 #container-header {
 	color: rgb(211, 211, 211);
 }
