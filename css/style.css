@@ -5,12 +5,12 @@ header{
 }
 
 body {
-	background-image: url("abqpic.jpg");
+	background-image: url("001.jpg")
 	background-repeat: no-repeat;
 }
 
 
 footer{
 	background-color: lightgray;
-	background-image: url("abqpic.jpg");
+	padding: 20px;
 }
