@@ -76,10 +76,28 @@
 										<p></p>
 
 									</div>
-						</div>
 
 
-				</div>
+<!-----------------Bottom content blocks---------------->
+
+							<div class="container">
+								<div clas="row">
+
+											<div class="col-md-6">
+													<h3>Bottom Block 1</h3>
+													<p></p>
+											</div>
+
+											<div class="col-md-6">
+													<h3>bottom block 2</h3>
+													<p></p>
+											</div>
+
+								</div>
+						 </div>
+
+
+
 </div>
 	</body>
 
