@@ -50,23 +50,30 @@
 					<div class="container">
 
 						<div class="row">
-									<div class="col-md-4">
+									<div class="col-md-3">
 											<h2>Content Block 1</h2>
 											<p></p>
 
 									</div>
 
 
-									<div class="col-md-4">
+									<div class="col-md-3">
 											<h2>Content block 2</h2>
 											<p></p>
 
 									</div>
 
 
-									<div class="col-md-4">
+									<div class="col-md-3">
 											<h2>content block 3</h2>
 											<p></p>
+
+									</div>
+
+
+									<div class="col-md-3">
+										<h2>content block 3</h2>
+										<p></p>
 
 									</div>
 						</div>
