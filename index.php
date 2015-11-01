@@ -27,7 +27,7 @@
 				<div class="sfooter-content">
 
 
-		<headers>
+		<header>
 
 			<div class="container">
 						<div class="row col-md-12">
@@ -42,7 +42,7 @@
 						</div>
 			</div>
 
-		</headers>
+		</header>
 
 
 	<!-------Content area----------------------------->
