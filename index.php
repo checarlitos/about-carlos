@@ -41,14 +41,35 @@
 
 
 	<!-------Content area----------------------------->
-				<main class="container">
+				<div class="container">
 
 						<h2>Dont Speak! it could be bad for your health.</h2>
 								<p>Just sit there look normal and read.</p>
 
-				</main>
+				</div>
 </div>
 	</body>
 
 
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
