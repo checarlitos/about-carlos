@@ -72,7 +72,7 @@
 
 
 									<div class="col-md-3">
-										<h2>content block 3</h2>
+										<h2>content block 4</h2>
 										<p></p>
 
 									</div>
