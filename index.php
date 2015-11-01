@@ -96,6 +96,11 @@
 								</div>
 						 </div>
 
+<!---------------Footer---------->
+
+							<footer>
+								<p>This is the bottom footer.</p>
+							</footer>
 
 
 </div>
