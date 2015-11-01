@@ -29,7 +29,7 @@
 
 		<header>
 
-			<div class="container color: lightgrey;">
+			<div class="container">
 						<div class="row col-md-12">
 
 							<h1>Stemulus Mafia</h1>
