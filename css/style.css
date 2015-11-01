@@ -1,7 +1,9 @@
 
+header{
+	background-color: lightgray;
+}
 
 body {
 	background-image: url("abqpic.jpg");
 	background-repeat: no-repeat;
-	font-family: arial;
 }
