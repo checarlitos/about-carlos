@@ -46,6 +46,32 @@
 						<h2>Dont Speak! it could be bad for your health.</h2>
 								<p>Just sit there look normal and read.</p>
 
+	<!-----------content blocks------------->
+					<div class="container">
+
+						<div class="row">
+									<div class="col-md-4">
+											<h2>Content Block 1</h2>
+											<p></p>
+
+									</div>
+
+
+									<div class="col-md-4">
+											<h2>Content block 2</h2>
+											<p></p>
+
+									</div>
+
+
+									<div class="col-md-4">
+											<h2>content block 3</h2>
+											<p></p>
+
+									</div>
+						</div>
+
+
 				</div>
 </div>
 	</body>
