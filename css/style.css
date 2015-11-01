@@ -1,39 +1,7 @@
-h1 {
-	font-family: arial;
-	color: #000000;
-	font-size: 4em;
-	align-content: left;
-}
-
-header {
-	color: lightgray;
-}
-
-#container-header {
-	color: rgb(211, 211, 211);
-}
 
 
 body {
 	background-image: url("abqpic.jpg");
 	background-repeat: no-repeat;
 	font-family: arial;
-}
-*/
-
-p {
-	color: #ffffff;
-	text-align: center;
-}
-{
-ul
-	color: #ffffff;
-}
-
-ol {
-
-}
-em {
-	color: #ffffff;
-	text-align: center;
 }
